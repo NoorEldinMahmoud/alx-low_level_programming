@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* 
+/*
  * main - Determine if a random number is postive,negative or zero
  *
  * Return: 0 (Success)
@@ -26,5 +26,4 @@ int main(void)
 		printf("%d is %s\n", n, "zero");
 	}
 	return (0);
-	
 }
