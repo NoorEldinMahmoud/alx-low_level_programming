@@ -14,7 +14,7 @@ int main(void)
 
 	for (q = 0; q <= 98; q++)
 	{
-		for (w = q + 1; w <= 98; w++)
+		for (w = q + 1; w <= 99; w++)
 		{
 			putchar((q / 10) + '0');
 			putchar((q % 10) + '0');
