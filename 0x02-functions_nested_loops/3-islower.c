@@ -2,7 +2,7 @@
 
 /**
  * _islower - check for the lowercase charachters
- *
+ * @c: is the harachter to be checked.
  * Return: 1 for lower charachter else  0 .
  */
 
